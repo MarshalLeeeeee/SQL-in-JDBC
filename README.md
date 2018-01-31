@@ -1,7 +1,7 @@
 # SQL-in-JDBC
 Demos for using JDBC as the interface to operate sqLite and MySql 
 
-<h1>Make sure you add the following external JARS:</h1>
+<h4>Make sure you add the following external JARS:</h4>
 <ul type="circle">
 <!type attribute decide the character, default is "disc">
   <li>SQLite JDBC</li>
@@ -10,7 +10,7 @@ Demos for using JDBC as the interface to operate sqLite and MySql
 
 <i> **They can be easily downloaded from the Internet.</i>
 
-<h1>Isolation Level:</h1>
+<h4>Isolation Level:</h4>
 <ul type="circle">
 <!type attribute decide the character, default is "disc">
   <li>Serializable</li>
@@ -19,7 +19,7 @@ Demos for using JDBC as the interface to operate sqLite and MySql
   <li>Read Uncommitted</li>
 </ul>
 
-<h1>Locking Granularity:</h1>
+<h4>Locking Granularity:</h4>
 <ul type="circle">
 <!type attribute decide the character, default is "disc">
   <li>Table</li>
